@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
-
-<img align="right" width="370" height="290" src="https://wallpapercave.com/wp/wp2757832.gif">
  🦾 I am Iron Man, and I Code Like Stark
 
 Welcome to my repository, where I build my own "suits" one commit at a time.  
@@ -15,7 +13,7 @@ Welcome to my repository, where I build my own "suits" one commit at a time.
 ## ⚡ Powering the Future
 Like Tony Stark, I believe in innovation and creating a better tomorrow with every line of code.  
 "Sometimes you’ve gotta run before you can walk." – **Tony Stark**
-
+<img align="right" width="370" height="290" src="https://wallpapercave.com/wp/wp2757832.gif">
 
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aragulkumar/)
