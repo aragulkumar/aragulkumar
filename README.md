@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
 
 <img align="right" width="370" height="290" src="https://wallpapercave.com/wp/wp2757832.gif">
-# 🦾 I am Iron Man, and I Code Like Stark
+ 🦾 I am Iron Man, and I Code Like Stark
 
 Welcome to my repository, where I build my own "suits" one commit at a time.  
 **Genius, coder, philanthropist.** 🚀
