@@ -1,18 +1,20 @@
 <h1 align="center">⚡ Hey, I'm Ragul Kumar A ⚡</h1>
-<h3 align="center">AI & Automation Enthusiast | Future Software Architect | Iron Man Inspired 🦾</h3>
+<h3 align="center">Aspiring Software Developer | AI Enthusiast | Iron Man Fan 🦾</h3>
 
-<!-- Hero GIF -->
+<!-- Optional top hero GIF (remove if not needed) -->
 <p align="center">
   <img src="https://media.tenor.com/2d1R8hZQ0gsAAAAd/jarvis-iron-man.gif" width="520" alt="JARVIS HUD" />
 </p>
 
 ---
 
-<!-- About Me with left GIF -->
+<!-- About Me with left GIF matched in size -->
 <table>
   <tr>
-    <td width="220" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="200" alt="Iron Man HUD" />
+    <!-- Set column width so GIF equals the left column size -->
+    <td width="320" valign="top" align="center" style="min-width:320px;">
+      <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif"
+           width="300" alt="Iron Man HUD" />
     </td>
     <td valign="top">
 
@@ -55,12 +57,9 @@
   <a href="https://www.linkedin.com/in/aragulkumar" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-
-  <!-- Red mail icon: PNG with color baked-in to bypass GitHub CSS stripping -->
   <a href="mailto:aragulkumar.official@gmail.com" target="_blank" title="Email">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail (red)" />
   </a>
-
   <a href="https://www.instagram.com/aragulkumar" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
