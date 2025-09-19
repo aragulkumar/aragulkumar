@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="400"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
 <h3 align="center">Aspiring Software Developer | AI Enthusiast | Iron Man Fan 🦾</h3>
 
@@ -26,14 +22,18 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aragulkumar&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" />
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/aragulkumar/aragulkumar/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
   <!-- Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aragulkumar&theme=tokyonight" alt="aragulkumar" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
