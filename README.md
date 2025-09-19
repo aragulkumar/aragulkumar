@@ -7,13 +7,28 @@
 
 ---
 
-## 🚀 About Me  
+<table>
+  <tr>
+    <!-- Left: Iron Man GIF -->
+    <td width="220" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="200" alt="Iron Man HUD" />
+    </td>
+
+    <!-- Right: About bullets (unchanged lines) -->
+    <td valign="top">
+      
+## 🚀 About Me
 
 - 🎓 2nd-year AI & DS student, passionate about **AI & Automation**  
 - 🤖 Currently building my own **Jarvis-like assistant**  
 - 📚 Exploring **Python, Java, Machine Learning, and Fullstack Development**  
 - 💡 Strong interest in **Agentic AI systems, task automation & finance tech**  
 - 🏗️ Long-term vision: Build impactful software & scalable businesses  
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
