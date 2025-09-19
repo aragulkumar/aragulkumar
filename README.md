@@ -58,31 +58,32 @@
 ---
 
 ## 🌐 Social
+<!-- Using repo-hosted colored icons to avoid monochrome/broken images -->
 <p align="center" style="display:flex; gap:18px; align-items:center; justify-content:center;">
 
-  <!-- LinkedIn (color) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aragulkumar" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/icons/linkedin.svg" width="40" alt="LinkedIn" />
   </a>
 
-  <!-- Threads: high-contrast PNG with white outline -->
+  <!-- Threads -->
   <a href="https://www.threads.com/@aragulkumar" target="_blank" title="Threads">
-    <img src="https://raw.githubusercontent.com/ntkme/github-buttons/master/src/logos/threads/threads.png" width="40" alt="Threads" />
+    <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/icons/threads.png" width="40" alt="Threads" />
   </a>
 
-  <!-- X: bold white-on-black PNG for dark theme -->
+  <!-- X -->
   <a href="https://x.com/aragulkumar" target="_blank" title="X">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.png" width="40" alt="X" />
+    <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/icons/x.png" width="40" alt="X" />
   </a>
 
-  <!-- Stack Overflow (brand color SVG) -->
+  <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/25360634/aragulkumar" target="_blank" title="Stack Overflow">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" alt="Stack Overflow" />
+    <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/icons/stackoverflow.svg" width="40" alt="Stack Overflow" />
   </a>
 
-  <!-- Instagram (color) -->
+  <!-- Instagram -->
   <a href="https://www.instagram.com/_aragulkumar_" target="_blank" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 </p>
 
