@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/aragulkumar" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="mailto:aragulkumar@gmail.com" target="_blank">
+  <a href="mailto:aragulkumar.official@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin: 0 10px;" />
   </a>
   <a href="https://www.instagram.com/aragulkumar" target="_blank">
