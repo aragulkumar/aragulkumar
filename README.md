@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/ironman.gif" width="400"/>
+  <img src="https://github.com/aragulkumar/aragulkumar/blob/main/assets/ironman.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
@@ -26,8 +26,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aragulkumar&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -36,20 +36,20 @@
 > *“Sometimes you gotta run before you can walk.”* – Tony Stark  
 
 <p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/ironman.gif" width="400"/>
+  <img src="https://github.com/aragulkumar/aragulkumar/blob/main/assets/ironman.gif" width="400"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/aragulkumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:aragulkumar.official@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourtwitter" target="_blank">
+  <a href="https://twitter.com/aragulkumar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
 </p>
