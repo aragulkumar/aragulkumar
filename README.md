@@ -1,6 +1,5 @@
-<!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/aragulkumar/aragulkumar/blob/main/assets/ironman.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
@@ -36,20 +35,5 @@
 > *“Sometimes you gotta run before you can walk.”* – Tony Stark  
 
 <p align="center">
-  <img src="https://github.com/aragulkumar/aragulkumar/blob/main/assets/ironman.gif" width="400"/>
-</p>
-
----
-
-## 📫 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/in/aragulkumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aragulkumar.official@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/aragulkumar" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="400"/>
 </p>
