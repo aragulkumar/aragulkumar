@@ -49,8 +49,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   <a href="mailto:aragulkumar.official@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin: 0 10px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.instagram.com/aragulkumar" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
