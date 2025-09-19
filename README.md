@@ -23,7 +23,7 @@
 
 <p align="center">
   <!-- Snake Contribution Animation -->
-  <img src="https://github.com/aragulkumar/aragulkumar/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src=".github/workflows/snake.yml" alt="snake animation"/>
 </p>
 
 <p align="center">
