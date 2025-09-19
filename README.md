@@ -58,7 +58,6 @@
 ---
 
 ## 🌐 Social
-<!-- Colored brand icons to avoid monochrome rendering on GitHub -->
 <p align="center" style="display:flex; gap:18px; align-items:center; justify-content:center;">
 
   <!-- LinkedIn (color) -->
@@ -66,14 +65,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
 
-  <!-- Threads (color PNG) -->
+  <!-- Threads: high-contrast PNG with white outline -->
   <a href="https://www.threads.com/@aragulkumar" target="_blank" title="Threads">
-    <img src="https://seeklogo.com/images/T/threads-logo-6B0B34F9B9-seeklogo.com.png" width="40" alt="Threads" />
+    <img src="https://raw.githubusercontent.com/ntkme/github-buttons/master/src/logos/threads/threads.png" width="40" alt="Threads" />
   </a>
 
-  <!-- X / Twitter (color SVG) -->
+  <!-- X: bold white-on-black PNG for dark theme -->
   <a href="https://x.com/aragulkumar" target="_blank" title="X">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" alt="X" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.png" width="40" alt="X" />
   </a>
 
   <!-- Stack Overflow (brand color SVG) -->
@@ -81,7 +80,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="40" alt="Stack Overflow" />
   </a>
 
-  <!-- Instagram (color SVG) -->
+  <!-- Instagram (color) -->
   <a href="https://www.instagram.com/_aragulkumar_" target="_blank" title="Instagram">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" alt="Instagram" />
   </a>
