@@ -1,20 +1,20 @@
 <h1 align="center">⚡ Hey, I'm Ragul Kumar A ⚡</h1>
 <h3 align="center">Aspiring Software Developer | AI Enthusiast | Iron Man Fan 🦾</h3>
 
-<!-- Optional top hero GIF (remove if not needed) -->
+<!-- Optional top hero GIF -->
 <p align="center">
   <img src="https://media.tenor.com/2d1R8hZQ0gsAAAAd/jarvis-iron-man.gif" width="520" alt="JARVIS HUD" />
 </p>
 
 ---
 
-<!-- About Me with left GIF matched in size -->
+<!-- About Me with larger left GIF equal to column -->
 <table>
   <tr>
-    <!-- Set column width so GIF equals the left column size -->
-    <td width="320" valign="top" align="center" style="min-width:320px;">
+    <!-- Left column width set to 380; GIF width matches for equal visual weight -->
+    <td width="380" valign="top" align="center" style="min-width:380px;">
       <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif"
-           width="300" alt="Iron Man HUD" />
+           width="380" alt="Iron Man HUD" />
     </td>
     <td valign="top">
 
@@ -52,15 +52,36 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
+- Contact email - [aragulkumar.official@gmail.com](mailto:aragulkumar.official@gmail.com)
+
+---
+
+## 🌐 Social
 <p align="center" style="display:flex; gap:18px; align-items:center; justify-content:center;">
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/aragulkumar" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:aragulkumar.official@gmail.com" target="_blank" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail (red)" />
+
+  <!-- Threads -->
+  <a href="https://www.threads.com/@aragulkumar" target="_blank" title="Threads">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/threads.svg" width="40" alt="Threads" />
   </a>
-  <a href="https://www.instagram.com/aragulkumar" target="_blank" title="Instagram">
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/aragulkumar" target="_blank" title="X">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" alt="X" />
+  </a>
+
+  <!-- Stack Overflow -->
+  <a href="https://stackoverflow.com/users/25360634/aragulkumar" target="_blank" title="Stack Overflow">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="40" alt="Stack Overflow" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/_aragulkumar_" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" />
   </a>
 </p>
@@ -71,5 +92,5 @@
 > “Sometimes you gotta run before you can walk.” – Tony Stark
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="380" alt="Iron Man" />
+  <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif" width="420" alt="Iron Man" />
 </p>
