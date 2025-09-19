@@ -1,39 +1,55 @@
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/ironman.gif" width="400"/>
+</p>
 
-<h1 align="center">Hi there👋, I'm Ragul Kumar </h1>
+<h1 align="center">Hi 👋, I'm Ragul Kumar A</h1>
+<h3 align="center">Aspiring Software Developer | AI Enthusiast | Iron Man Fan 🦾</h3>
 
-<h1 align="center">🦾 I am Iron Man, and I Code Like Stark</h1>
+---
 
-<img align="right" width="370" height="290" src="https://wallpapercave.com/wp/wp2757832.gif">
+## 🚀 About Me  
+- 🎓 2nd-year Computer Science student, passionate about **AI & Automation**  
+- 🤖 Currently building my own **Jarvis-like assistant**  
+- 📚 Exploring **Python, Java, Machine Learning, and Fullstack Development**  
+- 💡 Strong interest in **agentic AI systems, task automation & finance tech**  
+- 🏗️ Long-term vision: Build impactful software & scalable businesses  
 
+---
 
-Welcome to my repository, where I build my own "suits" one commit at a time.  
-**Genius, coder, philanthropist.** 🚀
+## 🛠️ Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,mysql,postgresql,vscode,linux&theme=dark" />
+</p>
 
-🔧 **Tools of the Trade**
-- 💻 Crafting innovative solutions
-- 🧠 Pushing the boundaries of technology
-- 🔍 Always learning, always evolving
+---
 
-⚡ **Powering the Future**
-Like Tony Stark, I believe in innovation and creating a better tomorrow with every line of code.
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="160" />
+</p>
 
-"Sometimes you’ve gotta run before you can walk." – **Tony Stark**
+---
 
+## 🦾 Fun Touch  
+> *“Sometimes you gotta run before you can walk.”* – Tony Stark  
 
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/aragulkumar)
+<p align="center">
+  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/main/assets/ironman.gif" width="400"/>
+</p>
 
+---
 
-### 💻 Workspace Spec
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aragulkumar?theme=dark&font=Castoro&ext=heatmap)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aragulkumar&bg_color=000000&color=ffffff&line=0040ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-
-
-
+## 📫 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
+</p>
