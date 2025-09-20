@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aragulkumar&theme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aragulkumar&theme=tokyonight" alt="Streak stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
