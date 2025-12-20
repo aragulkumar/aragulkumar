@@ -1,4 +1,4 @@
-# Ragul Kumar A — Python & AI Developer
+# Ragul Kumar A - Python & AI Developer
 
 I am Ragul Kumar A, a Python and AI developer focused on building backend systems, LLM-powered assistants, and automation tools. I am currently working on a Jarvis-like personal AI assistant and exploring agentic AI systems for real-world problem solving.
 
