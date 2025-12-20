@@ -1,5 +1,8 @@
-<h1 align="center">⚡ Hey, I'm Ragul Kumar A ⚡</h1>
-<h3 align="center">Aspiring Software Developer | AI Enthusiast | Iron Man Fan 🦾</h3>
+# Ragul Kumar A — Python & AI Developer
+
+I am Ragul Kumar A, a Python and AI developer focused on building backend systems, LLM-powered assistants, and automation tools. I am currently working on a Jarvis-like personal AI assistant and exploring agentic AI systems for real-world problem solving.
+
+<h3 align="center">Python & AI Developer | Backend | LLMs | Automation</h3>
 
 <!-- Optional top hero GIF -->
 <p align="center">
@@ -11,20 +14,19 @@
 <!-- About Me with larger left GIF equal to column -->
 <table>
   <tr>
-    <!-- Left column width set to 380; GIF width matches for equal visual weight -->
     <td width="380" valign="top" align="center" style="min-width:380px;">
       <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif"
            width="380" alt="Iron Man HUD" />
     </td>
     <td valign="top">
 
-## 🚀 About Me
+## About Me
 
-- 🎓 2nd-year AI & DS student, passionate about **AI & Automation**  
-- 🤖 Currently building my own **Jarvis-like assistant**  
-- 📚 Exploring **Python, Java, Machine Learning, and Fullstack Development**  
-- 💡 Strong interest in **Agentic AI systems, task automation & finance tech**  
-- 🏗️ Long-term vision: Build impactful software & scalable businesses  
+- 🎓 2nd-year AI & Data Science student with strong interest in **AI and Automation**
+- 🤖 Building a **Jarvis-like AI assistant** using Python, LLMs, and system automation
+- 🧠 Exploring **Python, Java, Machine Learning, Backend, and Full Stack Development**
+- ⚙️ Interested in **agentic AI systems, task automation, and finance technology**
+- 🏗️ Long-term goal: Build impactful software products and scalable technology-driven businesses
 
     </td>
   </tr>
@@ -32,32 +34,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,mysql,postgresql,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aragulkumar&theme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aragulkumar&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" alt="Top programming languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aragulkumar&theme=tokyo-night" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aragulkumar&theme=tokyo-night" alt="GitHub activity graph" />
 </p>
 
 ---
 
-## 📬 Contact
-- Contact email - [aragulkumar.official@gmail.com](mailto:aragulkumar.official@gmail.com)
+## Contact
+- 📧 Email: [aragulkumar.official@gmail.com](mailto:aragulkumar.official@gmail.com)
 
 ---
 
-## 🌐 Social
+## Social Profiles
 <p align="center">
   <a href="https://www.linkedin.com/in/aragulkumar" target="_blank">
     <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -78,7 +80,7 @@
 
 ---
 
-## 🦾 Fun Touch
+## Inspiration
 > “Sometimes you gotta run before you can walk.” – Tony Stark
 
 <p align="center">
