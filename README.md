@@ -45,12 +45,6 @@ I am Ragul Kumar A, a Python and AI developer focused on building backend system
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=aragulkumar&theme=tokyonight" alt="GitHub streak stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=tokyonight" height="160" alt="Top programming languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aragulkumar&theme=tokyo-night" alt="GitHub activity graph" />
-</p>
 
 ---
 
