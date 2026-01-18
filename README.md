@@ -41,13 +41,6 @@ I am Ragul Kumar A, a Python and AI developer focused on building backend system
 
 ---
 
-## GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=aragulkumar&theme=tokyonight" alt="GitHub streak stats" />
-</p>
-
----
-
 ## Contact
 - 📧 Email: [aragulkumar.official@gmail.com](mailto:aragulkumar.official@gmail.com)
 
