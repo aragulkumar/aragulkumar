@@ -6,7 +6,6 @@
 ![Tony Stark's Homelab](https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif) <!-- Replace with actual image URL or path -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Homelab%20Engineering-black?style=flat-square" />
   <img src="https://img.shields.io/badge/Exploring-DevOps-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Interest-AI%20Infrastructure-6f42c1?style=flat-square" />
