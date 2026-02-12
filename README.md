@@ -1,43 +1,28 @@
 # Ragul Kumar A - Python & AI Developer
 
-I am Ragul Kumar A, a Python and AI developer focused on building backend systems, LLM-powered assistants, and automation tools. I am currently working on a Jarvis-like personal AI assistant and exploring agentic AI systems for real-world problem solving.
+![Tony Stark's Homelab](https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif) <!-- Replace with actual image URL or path -->
 
-<h3 align="center">Python & AI Developer | Backend | LLMs | Automation</h3>
+# Tony Stark's Homelab
 
-<!-- Optional top hero GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/2d1R8hZQ0gsAAAAd/jarvis-iron-man.gif" width="520" alt="JARVIS HUD" />
-</p>
+Welcome to my personal command center! I'm a 19-year-old engineering student building a private infrastructure to explore systems engineering, DevOps, and AI.
 
----
+## My Stack
+- **OS**: Linux (Arch, Ubuntu Server)
+- **Networking**: VLANs, pfSense, WireGuard VPN
+- **Containers**: Docker, Docker Compose
+- **Monitoring**: Prometheus, Grafana, Loki
+- **AI**: Local LLMs, private inference
 
-<!-- About Me with larger left GIF equal to column -->
-<table>
-  <tr>
-    <td width="380" valign="top" align="center" style="min-width:380px;">
-      <img src="https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif"
-           width="380" alt="Iron Man HUD" />
-    </td>
-    <td valign="top">
+## Projects
+- Self-hosted services (Nextcloud, Gitea, Matrix)
+- Containerized app deployment
+- Network monitoring dashboards
+- Experimental AI models
 
-## About Me
+## Vision
+Building a scalable, secure homelab to test infrastructure ideas and push the boundaries of private AI.
 
-- 🎓 2nd-year AI & Data Science student with strong interest in **AI and Automation**
-- 🤖 Building a **Jarvis-like AI assistant** using Python, LLMs, and system automation
-- 🧠 Exploring **Python, Java, Machine Learning, Backend, and Full Stack Development**
-- ⚙️ Interested in **agentic AI systems, task automation, and finance technology**
-- 🏗️ Long-term goal: Build impactful software products and scalable technology-driven businesses
-
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,mysql,postgresql,vscode,linux&theme=dark" />
-</p>
+Connect with me to discuss systems, DevOps, or infrastructure!
 
 ---
 
