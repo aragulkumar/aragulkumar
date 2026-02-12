@@ -1,28 +1,17 @@
-# Ragul Kumar A
+<h1 align="center">Ragul Kumar A</h1>
+<p align="center">
+  Systems • Infrastructure • AI Engineering
+</p>
 
 ![Tony Stark's Homelab](https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif) <!-- Replace with actual image URL or path -->
 
-# Tony Stark's Homelab
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-19-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Homelab%20Engineering-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-DevOps-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interest-AI%20Infrastructure-6f42c1?style=flat-square" />
+</p>
 
-Welcome to my personal command center! I'm a 19-year-old engineering student building a private infrastructure to explore systems engineering, DevOps, and AI.
-
-## 🔧 My Stack
-- **OS**: Linux (Arch, Ubuntu Server)
-- **Networking**: VLANs, pfSense, WireGuard VPN
-- **Containers**: Docker, Docker Compose
-- **Monitoring**: Prometheus, Grafana, Loki
-- **AI**: Local LLMs, private inference
-
-## 🚀 Projects
-- Self-hosted services (Nextcloud, Gitea, Matrix)
-- Containerized app deployment
-- Network monitoring dashboards
-- Experimental AI models
-
-## 🌟 Vision
-Building a scalable, secure homelab to test infrastructure ideas and push the boundaries of private AI.
-
-Connect with me to discuss systems, DevOps, or infrastructure!
 ---
 
 ## Contact
