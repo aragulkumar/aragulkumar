@@ -1,4 +1,4 @@
-# Ragul Kumar A - Python & AI Developer
+# Ragul Kumar A
 
 ![Tony Stark's Homelab](https://raw.githubusercontent.com/aragulkumar/aragulkumar/main/assets/ironman.gif) <!-- Replace with actual image URL or path -->
 
@@ -6,24 +6,23 @@
 
 Welcome to my personal command center! I'm a 19-year-old engineering student building a private infrastructure to explore systems engineering, DevOps, and AI.
 
-## My Stack
+## 🔧 My Stack
 - **OS**: Linux (Arch, Ubuntu Server)
 - **Networking**: VLANs, pfSense, WireGuard VPN
 - **Containers**: Docker, Docker Compose
 - **Monitoring**: Prometheus, Grafana, Loki
 - **AI**: Local LLMs, private inference
 
-## Projects
+## 🚀 Projects
 - Self-hosted services (Nextcloud, Gitea, Matrix)
 - Containerized app deployment
 - Network monitoring dashboards
 - Experimental AI models
 
-## Vision
+## 🌟 Vision
 Building a scalable, secure homelab to test infrastructure ideas and push the boundaries of private AI.
 
 Connect with me to discuss systems, DevOps, or infrastructure!
-
 ---
 
 ## Contact
