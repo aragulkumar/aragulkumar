@@ -53,25 +53,28 @@ I believe in doing the fundamentals right. That means learning DSA seriously, un
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aragulkumar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aragulkumar&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## Contact
 
-| Platform | Link |
-|---|---|
-| Email | [aragulkumar.official@gmail.com](mailto:aragulkumar.official@gmail.com) |
-| LinkedIn | [aragulkumar](https://www.linkedin.com/in/aragulkumar) |
-| X (Twitter) | [@aragulkumar](https://x.com/aragulkumar) |
-| Stack Overflow | [aragulkumar](https://stackoverflow.com/users/25360634/aragulkumar) |
-| Threads | [@aragulkumar](https://www.threads.com/@aragulkumar) |
-| Instagram | [@_aragulkumar_](https://www.instagram.com/_aragulkumar_) |
+<p align="center">
+  <a href="mailto:aragulkumar.official@gmail.com">
+    <img alt="Email" height="28" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/aragulkumar" target="_blank">
+    <img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://x.com/aragulkumar" target="_blank">
+    <img alt="X" height="28" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://stackoverflow.com/users/25360634/aragulkumar" target="_blank">
+    <img alt="Stack Overflow" height="28" src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="https://www.threads.com/@aragulkumar" target="_blank">
+    <img alt="Threads" height="28" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/_aragulkumar_" target="_blank">
+    <img alt="Instagram" height="28" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
 ---
 
